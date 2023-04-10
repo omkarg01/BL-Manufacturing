@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@serialport/list": "^10.5.0",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.1",
+    "johnny-five": "^2.1.0",
+    "serialport": "^10.5.0",
+    "simple-web-serial": "^0.0.8"
+  }
+}
